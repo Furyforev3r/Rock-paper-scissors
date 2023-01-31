@@ -1,5 +1,5 @@
-> # 🎲 Rock paper scissors!
-**A Rock paper scissors game made in python using the `Random` module.**
+> # 🎲 Random password generator!
+**A random password generator made in python using the `Random` module.**
 > ## ❔ How does it work?
 ### **There is a commented version of the program that explains over the top how the program works.**
 > ## 🖥️ How to run?
