@@ -23,4 +23,6 @@ def Game():
         Game()
     else:
         print("Thanks for playing!")
-Game()
+
+if __name__ == "__main__":
+    Game()
